@@ -10,7 +10,7 @@ import SideNavBar from './View/layouts/SideNavBar'
 function App() {
   return (
     <div className="App">
-      {/* {/* <SignIn/> */}
+      {/* <SignIn/>
       <SignUp/> 
       {/* <Default/> */}
       {/* <SideNavBar/> */}
